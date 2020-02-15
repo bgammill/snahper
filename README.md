@@ -10,8 +10,11 @@ An excuse to play with puppeteer. Loads a link, pastes a password into the passw
 2. `npm install -g puppeteer`
 
 ## Usage
-```
-$ node snahper.js 'https://examplelink.com' 'examplepassword'
+### Arguments (in order)
+1. URL
+2. Password
+### Input
+`$ node snahper.js 'https://examplelink.com' 'examplepassword'`
 
-$ https://exampleoutputlink.com
-```
+### Output
+`$ https://exampleoutputlink.com`
