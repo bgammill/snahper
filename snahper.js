@@ -27,7 +27,7 @@ const selectors = {
 
 // small function for logging a supplied link.
 const printLink = (link) => {
-    console.log(link);
+    console.log('\n', link);
 };
 
 (async() => {
